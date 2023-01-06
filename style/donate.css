@@ -1,0 +1,328 @@
+*{
+font-family: 'Open Sans', sans-serif;
+margin: 0;
+
+}
+
+                           /* header */
+
+       
+header{
+   
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%),url(../images/donation5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+   height: 700px;
+ 
+ 
+  
+}
+ 
+.header-title{
+    font-size: 70px;
+    
+    color: aliceblue;
+    font-weight: 800;
+    margin-left: 250px;
+    margin-right: 250px;
+   padding-top: 170px;
+    
+    text-align: center;
+
+   
+
+   
+}
+.headeer-descrip{
+    font-size: 14px;
+    font-weight: 600;
+    color:gainsboro;
+    margin-top: 15px;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: center;
+}
+.header-btn{
+color: aliceblue;
+margin-top: 20px;
+background:#FF5959 ;
+height: 45px;
+width: 140px;
+padding: 15px;
+border: 0;
+border-radius: 5px;
+}
+                              /* sectrion1 */
+
+.section-title{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.selection-descrip{
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.amount{
+    display: flex;
+   gap: 60px;
+    justify-content: center;
+  
+    
+ 
+}
+.amount-fee{
+  
+ 
+    font-size: 40px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    border: #FFFFFF;
+    padding: 10px;
+   
+  
+}
+.amount-fee2{
+    border: 3px solid red;
+    font-size: 40px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+}
+.other{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight:100;
+    color: gray;
+    margin-bottom: 10px;
+}
+hr{
+    margin: 0px 260px;
+    margin-top: 40px;
+}
+
+.other-btn{
+    color: aliceblue;
+margin-top: 20px;
+background:#FF5959 ;
+height: 45px;
+width: 140px;
+padding: 15px;
+border: 0;
+border-radius: 5px;
+margin-left: 700px;
+
+
+
+}
+                           /* section 2 */
+
+.section2-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 90px;
+    
+
+}
+
+.section2-descrip{
+    margin-top: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.section2-info{
+
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+.info-style1{
+background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+width: 270px;
+padding: 40px;
+}
+.info-style2{
+
+background: rgba(255, 89, 89, 0.1);
+border-radius: 5px;
+width: 270px;
+padding: 40px;
+}
+.info-style3{
+    background: #FFF4D6;
+    border-radius: 5px;
+    width: 270px;
+padding: 40px;
+}
+                    /* section 3 */
+.section3{
+    display: flex;
+    margin-top: 150px;
+    margin-left:150px ;
+   margin-right: 150px;
+   align-items: center;
+    
+}
+.sec-info{
+
+    height: px;
+    width: 500px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.img-style{
+     margin-left: 20px;
+    height: 400px;
+    width: 500px;
+
+}
+.sec3-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.sec3-descrip{
+    margin-top: 10px;
+font-size: 17px;
+
+}
+.sec3-btn{
+    color: aliceblue;
+    margin-top: 20px;
+    background:#FF5959 ;
+    height: 45px;
+    width: 200px;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+  
+}
+                     /* sec 3 part 2 */
+
+
+                     .img-style2{
+                        margin-left: 10px;
+                       height: 400px;
+                       width: 500px;
+                       margin-left: 35px;
+                   
+                   }
+                   .sec3-title2{
+                       font-size: 50px;
+                       font-weight: bold;
+                       margin-left: 30px;
+                   }
+                   .sec3-descrip2{
+                       margin-top: 10px;
+                   font-size: 17px;
+                   margin-left: 30px;
+                   
+                   }
+                   .sec3-btn2{
+                       color: aliceblue;
+                       margin-top: 20px;
+                       background:#FF5959 ;
+                       height: 45px;
+                       width: 200px;
+                       padding: 10px;
+                       border: 0;
+                       border-radius: 5px;
+                       margin-left: 30px;
+                     
+                   }
+                   .sec-info2{
+
+                    height: px;
+                    width: 500px;
+                   margin-left: 50px;
+                   }
+
+
+
+     .sec4-title{
+     text-align: center;
+     margin-top: 120px;
+     font-size: 40px;
+     font-weight: bold;
+
+     }              
+
+.sec4-descrip{
+
+font-size: 17px;
+margin-top:30px ;
+margin-left: 400px;
+margin-right: 400px;
+text-align: center;
+}
+
+.sec4-color{
+    background-color: #FFF4D6;
+    height: 220px;
+    width: 900px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.sec4-con-info{
+   
+    display: flex;
+  justify-content: center;
+  padding: 100px;
+ 
+ 
+    
+   
+}
+input{
+    
+    height: 25px;
+    width: 160px;
+    padding: 10px;
+    border-radius: 5px 0px 0px 5px;
+    background-color:  #D9D9D9;;
+    border: 0;
+}
+.sec4-btn{
+
+    color: aliceblue;
+    
+    background:#FF5959 ;
+    height: 45px;
+    width: 139px;
+    padding: 10px;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+  
+}
+.footer-bg{
+    margin-top: 100px;
+    background-color: #121212;
+    padding: 70px;
+  
+    
+}
+.footer-title{
+    color: red;
+    text-align: center;
+  
+   
+}
+.footer-para{
+    margin-top: 20px;
+    text-align: center;
+    color: gainsboro;
+   
+}
